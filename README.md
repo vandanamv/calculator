@@ -1,4 +1,4 @@
 ## calculator
 
 
-crated a simple calculator using HTML and CSS.
+Created a simple calculator using HTML and CSS.
